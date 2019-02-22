@@ -1,0 +1,1 @@
+Problem A - This problem was solved by direct simulation. I ran through a for-loop to simulate traveling between cities in the problem. I started out by adding the capacity of the gas tank to the cost. I ran through each subsequent increment by adding to the cost the current index in the loop and printed out the result at the end.
